@@ -1,0 +1,5 @@
+Criado projeto 
+composer create-project --prefer-dist laravel/laravel gfp
+
+add repositorio git
+git remote add origin https://github.com/F3rr3ir4/gfp.git
